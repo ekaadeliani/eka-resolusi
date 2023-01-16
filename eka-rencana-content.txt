@@ -4,6 +4,7 @@ RENCANA KONTEN EKA
     *ES6
     *framworks javascript
     ^ vue
+    ^ React
 - Struktur Data Dasar 
 - PHP framworks
 ^ laravel
