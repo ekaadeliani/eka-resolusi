@@ -3,4 +3,5 @@ RENCANA KONTEN EKA
 - Javascript
     *ES6
     *framworks javascript
+- Struktur Data Dasar 
 - PHP framworks
