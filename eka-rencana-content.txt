@@ -3,9 +3,11 @@ RENCANA KONTEN EKA
 - Javascript
     *ES6
     *framworks javascript
-    ^ Anggular
+    ^ vue
     ^ React
+- Struktur Data Dasar 
 - PHP framworks
-   ^ Laravel
+^ laravel
 - Interview
 - Vlog
+- Python
