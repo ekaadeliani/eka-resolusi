@@ -3,5 +3,9 @@ RENCANA KONTEN EKA
 - Javascript
     *ES6
     *framworks javascript
-- Struktur Data Dasar 
+    ^ Anggular
+    ^ React
 - PHP framworks
+   ^ Laravel
+- Interview
+- Vlog
