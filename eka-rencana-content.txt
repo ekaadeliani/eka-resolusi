@@ -1,0 +1,6 @@
+RENCANA KONTEN EKA
+
+- Javascript
+    *ES6
+    *framworks javascript
+- PHP framworks
