@@ -1,4 +1,6 @@
 RENCANA KONTEN EKA
 
 - Javascript
-- PHP fremworks
+    *ES6
+    *framworks javascript
+- PHP framworks
